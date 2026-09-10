@@ -30,4 +30,4 @@ Neste repositório estão disponíveis:
 
 ## Autor
 
-Desenvolvido por Gustavo de Souza como projeto acadêmico do curso Análise e Desenvolvimento de Sistemas para aplicar conceitos e praticar programação em MySQL e BRModelo.
+Desenvolvido por Gustavo de Souza e colegas de grupo como projeto acadêmico do curso Análise e Desenvolvimento de Sistemas para aplicar conceitos e praticar programação em MySQL e BRModelo.
