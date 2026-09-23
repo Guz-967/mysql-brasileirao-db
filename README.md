@@ -14,6 +14,7 @@ O projeto foi criado com foco na prática de conceitos fundamentais de banco de 
 * INSERT
 * UPDATE
 * DELETE
+* CREATE
 
 ### Tecnologias utilizadas
 
