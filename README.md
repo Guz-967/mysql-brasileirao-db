@@ -8,7 +8,7 @@ Sistema de banco de dados desenvolvido em MySQL com temática voltada ao Campeon
 
 O projeto foi criado com foco na prática de conceitos fundamentais de banco de dados relacionais, incluindo modelagem, relacionamentos entre entidades e manipulação de dados utilizando SQL.
 
-### Comandos Utilizados
+### Alguns dos Comandos Utilizados
 
 * SELECT
 * INSERT
